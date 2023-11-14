@@ -55,6 +55,11 @@
 - Use markdown cells to add descriptive explanations, instructions, or comments for better clarity and understanding.
 - Run the code cells sequentially to execute the steps and observe the results at each stage.
 
+
+## Flowchart
+
+![Flowchart](https://github.com/abdulwasih2003/License-Plate-Recognition-using-Opencv-and-Tesseract-OCT/assets/91781810/c1ab753b-3f19-49ba-9795-6877ef92b0e6)
+
 ## Sample Input
 
 https://youtu.be/i2HU6AuSqQ8?si=NRsnbtsL_8BIOX_d
