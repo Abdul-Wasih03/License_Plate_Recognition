@@ -55,6 +55,10 @@
 - Use markdown cells to add descriptive explanations, instructions, or comments for better clarity and understanding.
 - Run the code cells sequentially to execute the steps and observe the results at each stage.
 
+## Architecture Diagram
+
+![LPR architecture](https://github.com/abdulwasih2003/License-Plate-Recognition-using-Opencv-and-Tesseract-OCT/assets/91781810/9c985269-3b51-46f7-a1e0-7d49ebf9d0bd)
+
 
 ## Flowchart
 
